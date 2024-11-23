@@ -1,5 +1,4 @@
 
-```markdown
 # Deep Q-Learning Pong Agent
 
 This project implements a Deep Q-Learning (DQL) agent that learns to play the Atari game Pong using PyTorch and OpenAI Gym.
@@ -114,4 +113,3 @@ This project is open source and available under the MIT License.
 ## Acknowledgments
 
 This implementation is based on the DQN algorithm introduced by DeepMind and uses OpenAI's Gym framework for the Pong environment.
-```
